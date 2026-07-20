@@ -24,7 +24,7 @@ Key Features
 
 Dashboard Preview
 
-"Dashboard Screenshot" (dashboard.png)
+"Dashboard-1,2,3 Screenshot" (dashboard.png)
 
 Business Insights
 
